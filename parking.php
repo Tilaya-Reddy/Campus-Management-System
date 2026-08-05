@@ -1,5 +1,4 @@
 <!--Full Name: Tilaya Reddy-->
-<!--Student Number: 402504107-->
 <!--Internet Programming 621 Assignment-->
 
 <?php
