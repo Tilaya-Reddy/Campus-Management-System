@@ -1,5 +1,5 @@
 <!--Full Name: Tilaya Reddy-->
-<!--Internet Programming 621 Assignment-->
+<!--Internet Programming 621 Assignment -->
 <!--http://localhost/IPR_ASSIGNEMENT/main.php -->
 
 <!DOCTYPE html>
