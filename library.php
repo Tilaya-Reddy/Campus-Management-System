@@ -191,7 +191,7 @@ $returnMessages[] = returnBook($users, 'U1002', 'Computer Networks', '2025-01-18
         body {
             font-family: "Bookman Old Style", sans-serif;
             min-height: 100vh;
-            background-image: url('background2.jpg');
+            background-image: url('https://i.pinimg.com/1200x/f0/ae/39/f0ae3935bfd64c7c7493c2fb959f4fba.jpg');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
