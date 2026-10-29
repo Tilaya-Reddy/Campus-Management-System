@@ -111,20 +111,11 @@ for ($i = 0; $i < count($applications); $i++) {
         body {
             font-family: "Bookman Old Style", sans-serif;
             min-height: 100vh;
-            background-image: url('background2.jpg');
+            background-image: url('https://i.pinimg.com/1200x/f0/ae/39/f0ae3935bfd64c7c7493c2fb959f4fba.jpg');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
             color: #2c2c2c;
-        }
-
-        /* Dark overlay for readability */
-        .overlay {
-            position: fixed;
-            top: 0; left: 0;
-            width: 100%; height: 100%;
-            background: rgba(0, 0, 0, 0.5);
-            z-index: 0;
         }
 
         /* Content sits above overlay */
