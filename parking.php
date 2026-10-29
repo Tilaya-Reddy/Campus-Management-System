@@ -222,7 +222,7 @@ for ($i = 0; $i < count($applications); $i++) {
 
         .nav a {
             margin-right: 15px;
-            color: #b87333 ;
+            color: #fffbf7 ;
             font-weight: bold;
             text-decoration: none;
             font-size: 16px;
