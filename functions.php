@@ -270,9 +270,9 @@ function generatePerformanceReport($students) {
             $result = assignResult($avg);
 
             // Set colour based on result
-            if ($result === 'Distinction') $color = '#aaddff';
-            elseif ($result === 'Pass')    $color = '#90ee90';
-            else                           $color = '#ff9999';
+            if ($result === 'Distinction') $color = '#3366ff';
+            elseif ($result === 'Pass')    $color = '#009900';
+            else                           $color = '#810000';
         ?>
         <tr>
             <td><?= $name ?></td>
