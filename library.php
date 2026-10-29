@@ -330,7 +330,7 @@ $returnMessages[] = returnBook($users, 'U1002', 'Computer Networks', '2025-01-18
 
         .nav a {
             margin-right: 15px;
-            color: #b87333;
+            color: #fffbf7;
             font-weight: bold;
             text-decoration: none;
             font-size: 16px;
