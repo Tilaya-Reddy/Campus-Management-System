@@ -198,14 +198,6 @@ $returnMessages[] = returnBook($users, 'U1002', 'Computer Networks', '2025-01-18
             color: #2c2c2c;
         }
 
-        .overlay {
-            position: fixed;
-            top: 0; left: 0;
-            width: 100%; height: 100%;
-            background: rgba(0, 0, 0, 0.5);
-            z-index: 0;
-        }
-
         .content {
             position: relative;
             z-index: 1;
